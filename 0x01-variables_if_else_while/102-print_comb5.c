@@ -1,6 +1,7 @@
 /*
  * File: 102-print_comb5.c
- * Auth: Brennan D Baraban
+ * Auth: Julien Barbier
+ * Dec 9,2022
  */
 
 #include <stdio.h>
