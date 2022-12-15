@@ -2,7 +2,7 @@
  * File: 100-prime_factor.c
  * Julien Barbier
  * 
- * Duration: Project will start Dec 15, 2022 6:00 AM, must end by Dec 16, 2022 6:00 AM
+ * Duration: Project will start Dec 14, 2022 6:00 AM, must end by Dec 16, 2022 6:00 AM
  */
 
 #include <stdio.h>
