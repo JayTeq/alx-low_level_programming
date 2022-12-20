@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- *  a pointer to an int as parameter and updates the value it points to to 98
- * @n: point to an int
- * Return: Nothing
+ *  reset_to_98 - Update the value it point to 98
+ * @n: point to n
+ *
+ * Return: void
  */
 
 
