@@ -1,4 +1,4 @@
-##0x06. C - More pointers, arrays and strings##
+## 0x06. C - More pointers, arrays and strings
 
 ## 0. strcat
    What a function that can concatenates two strings.
